@@ -1,3 +1,6 @@
+This assignment was part of the FreeCodeCamp Data Analysis with Python certification. This repository does not include the main.py and the test_module.py files. All files can be accessed directly on FreeCodeCamp.org (see link on the right).
+
+---
 ### Assignment
 
 Create a function named `calculate()` in `mean_var_std.py` that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix. 
@@ -29,17 +32,3 @@ For example, `calculate([0,1,2,3,4,5,6,7,8])` should return:
   'sum': [[9, 12, 15], [3, 12, 21], 36]
 }
 ```
-
-The unit tests for this project are in `test_module.py`.
-
-### Development
-
-For development, you can use `main.py` to test your `calculate()` function. Click the "run" button and `main.py` will run.
-
-### Testing 
-
-We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
-
-### Submitting
-
-Copy your project's URL and submit it to freeCodeCamp.
