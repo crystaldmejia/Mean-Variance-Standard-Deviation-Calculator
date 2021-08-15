@@ -1,4 +1,4 @@
-This assignment was part of the FreeCodeCamp Data Analysis with Python certification. This repository does not include the main.py and the test_module.py files. All files can be accessed directly on FreeCodeCamp.org (see link on the right).
+This assignment was part of the FreeCodeCamp Data Analysis with Python certification. This repository does not include the main.py and the test_module.py files. All original files can be accessed directly on FreeCodeCamp.org (see link on the right).
 
 ---
 ### Assignment
